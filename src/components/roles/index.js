@@ -68,7 +68,7 @@ function RolesList() {
                             </button>
                         </div>
                         {
-                            roleList?.length === 0 ? <p>No data Available, Please add some roles ;</p> : (
+                            roleList?.length === 0 ? <p>No data Available, Please add some roles :)</p> : (
                                 <TableContainer component={Paper}>
                                     <Table aria-label="simple table">
                                         <TableHead>
